@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckerAnime.WinForms", "CheckerAnime.WinForms\CheckerAnime.WinForms.csproj", "{876F9E03-BDC3-4F0A-9F0A-6EA1885C3CD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckerAnime.WinForms", "CheckerAnime.WinForms\CheckerAnime.WinForms.csproj", "{876F9E03-BDC3-4F0A-9F0A-6EA1885C3CD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckerAnime.Domain", "CheckerAnime.Domain\CheckerAnime.Domain.csproj", "{FDEC0E01-2D76-49A4-80BA-0555989A092A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{876F9E03-BDC3-4F0A-9F0A-6EA1885C3CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{876F9E03-BDC3-4F0A-9F0A-6EA1885C3CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{876F9E03-BDC3-4F0A-9F0A-6EA1885C3CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEC0E01-2D76-49A4-80BA-0555989A092A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEC0E01-2D76-49A4-80BA-0555989A092A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEC0E01-2D76-49A4-80BA-0555989A092A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEC0E01-2D76-49A4-80BA-0555989A092A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
